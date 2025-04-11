@@ -1,0 +1,39 @@
+body,html {
+    height:100%;
+    margin-top: 120px;
+    background-position: center;
+    background-color: #212529;
+    text-align:center;
+}
+
+#profile-img {
+    height:200px;
+}
+/*.h-80 {*/
+/*    height: 100% !important;*/
+/*}*/
+.message-box {
+    padding: 15px;
+    border-radius: 5px;
+    display: none;
+    width: 100px;
+    margin: auto;
+}
+.success {
+    background-color: #d4edda;
+    color: #155724;
+    border: 1px solid #c3e6cb;
+}
+.error {
+    background-color: #f8d7da;
+    color: #721c24;
+    border: 1px solid #f5c6cb;
+}
+.info {
+    background-color: #e2e3e5;
+    color: #383d41;
+    border: 1px solid #d6d8db;
+}
+.mb-3{
+    color: #757474;
+}
